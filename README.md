@@ -21,3 +21,7 @@ Git é um sistema de [controle de versão distribuido](https://about.gitlab.com/
 
 ### Projeto: Microsoft Azure: Nuvem em Ação 
 Nesse desafio de projeto foi introduzido ferramentas do Microsoft Azure; e foi proposto um resumo do lab da DIO até o momento, [entenda o desafio](https://web.dio.me/project/computacao-da-nuvem-laboratorio/learning/82f5a5ed-a0e3-44fd-b3f5-2848ebc6be53?back=/track/microsoft-azure-essentials&tab=undefined&moduleId=undefined).
+- Computação em nuvem:
+Criar conta para 30 dias gratis para ferramentas gratuitas*; o portal Azure disponibiliza todos os serviços (seja ele gtratuito ou não) para empresas e para contas "gratuitas".
+ 
+
